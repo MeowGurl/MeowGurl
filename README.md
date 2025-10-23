@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- 🐱 New Circular Cat Logo -->
-<img src="https://cdn.jsdelivr.net/gh/MeowGurl/assets/cat-logo-pink-glow.gif" alt="MeowGurl Logo" width="150" style="border-radius: 50%; box-shadow: 0 0 15px #ff69b4;">
+<!-- 🐱 Your Main Circular Logo -->
+<img src="logo/logo.jpg" alt="MeowGurl Logo" width="160" style="border-radius: 50%; box-shadow: 0 0 20px #ff69b4;">
 
 <br>
 
-<!-- 🌈 Smooth Color Gradient Animation -->
+<!-- 🌈 Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Animated Divider" width="100%">
 
 <br>
 
-<!-- 💬 Typing Effect with Updated Lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF66CC&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+MeowGurl!;Prowling+through+the+digital+galaxy...;Chasing+code+comets+and+butterflies...;Crafting+magic+in+TypeScript+%26+Bun." alt="Typing SVG">
+<!-- 💬 Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+MeowGurl!;Prowling+through+the+digital+galaxy...;Chasing+code+comets+and+butterflies...;Crafting+magic+in+TypeScript+%26+Bun." alt="Typing SVG">
 
 <p>
   Just a curious developer chasing creativity through code.<br>
@@ -30,7 +30,7 @@
 
 <br>
 
-<!-- ⚡ Cool Code Animation -->
+<!-- 💻 Animated Coding Section -->
 <img src="https://github.com/MeowGurl/assets/blob/main/code-typing-loop.gif?raw=true" alt="Coding Animation" width="90%">
 
 <br>
