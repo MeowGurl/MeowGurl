@@ -10,10 +10,10 @@
 
 <br>
 
-<!-- 💬 Typing Animation (Fixed Version) -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF66CC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+MeowGurl!;Bot+Mechanician+%26+Scraper+Queen;Crafting+magic+in+TypeScript+%26+Bun.js;Living+on+Coffee%2C+Code+%26+Cat+Energy+😺" alt="Typing SVG" />
-</p>
+<!-- 💬 Typing Animation (Updated) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=true&width=435&lines=Hi+!+Hello+!+Meow+%F0%9F%98%BA+Call+Me+Meow+Gurl+Namaste+From+India+%F0%9F%99%8F%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<br>
 
 <!-- 🩷 Fallback Banner (in case Typing SVG fails) -->
 <p>
