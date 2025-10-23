@@ -1,51 +1,64 @@
 <div align="center">
 
-<img src="logo/logo.jpg" alt="MeowGurl Logo" width="150" style="border-radius: 50%;">
+<!-- 🐱 New Circular Cat Logo -->
+<img src="https://cdn.jsdelivr.net/gh/MeowGurl/assets/cat-logo-pink-glow.gif" alt="MeowGurl Logo" width="150" style="border-radius: 50%; box-shadow: 0 0 15px #ff69b4;">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/matheuss-io/matheuss-io/main/assets/images/rainbow-line.gif" alt="animated-color-bar" width="100%">
+<!-- 🌈 Smooth Color Gradient Animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Animated Divider" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+MeowGurl;Prowling+the+digital+world...;Chasing+bugs+and+butterflies...;Curating+code+with+curiosity." alt="Typing SVG">
+<!-- 💬 Typing Effect with Updated Lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF66CC&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+MeowGurl!;Prowling+through+the+digital+galaxy...;Chasing+code+comets+and+butterflies...;Crafting+magic+in+TypeScript+%26+Bun." alt="Typing SVG">
 
 <p>
-  Just a developer navigating the syntax sea, trying to land on my feet.<br>
-  My terminal is my favorite sandbox. 🐾
+  Just a curious developer chasing creativity through code.<br>
+  My terminal purrs louder than my cat. 🐾
 </p>
 
+<!-- 🌐 Social Links -->
 <p>
-  <a href="https://github.com/MeowGurl"><img src="https://img.shields.io/badge/GitHub-MeowGurl-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:its.meowgurl@gmail.com"><img src="https://img.shields.io/badge/Email-its.meowgurl@gmail.com-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/MeowGurl">
+    <img src="https://img.shields.io/badge/GitHub-MeowGurl-ff66cc?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:its.meowgurl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-its.meowgurl@gmail.com-1abc9c?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 <br>
 
-<h3>My GitHub Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowGurl&theme=aura&hide_border=true&border_radius=10&line=9B59B6&point=FF69B4" alt="GitHub Activity Graph" width="100%">
+<!-- ⚡ Cool Code Animation -->
+<img src="https://github.com/MeowGurl/assets/blob/main/code-typing-loop.gif?raw=true" alt="Coding Animation" width="90%">
+
+<br>
+
+### 🐾 My GitHub Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowGurl&theme=react-dark&hide_border=true&border_radius=12&line=FF66CC&point=FAD0C4" width="100%">
 
 <br>
 
 <details align="center">
-  <summary><code>[ Click to see my GitHub Stats ]</code></summary>
+  <summary><code>[ Click to see my GitHub Stats ✨ ]</code></summary>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MeowGurl&show_icons=true&theme=aura&hide_border=true&border_radius=10" alt="MeowGurl's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowGurl&layout=compact&theme=aura&hide_border=true&border_radius=10" alt="MeowGurl's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=MeowGurl&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowGurl&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages">
   </p>
 </details>
 
 <br>
 
-<h3><i>~ MeowCoding</i></h3>
+<h3><i>~ MeowCoding 😸</i></h3>
+
 <a href="https://github.com/MeowGurl">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXRwn/giphy.gif" width="150px" alt="Pixel Art Coding Cat GIF">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180px" alt="Coding Cat GIF">
 </a>
 
-<br>
-<br>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/matheuss-io/matheuss-io/main/assets/images/rainbow-line.gif" alt="animated-color-bar" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Animated Divider" width="100%">
 
 </div>
