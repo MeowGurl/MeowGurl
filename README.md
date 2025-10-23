@@ -10,8 +10,15 @@
 
 <br>
 
-<!-- 💬 Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF66CC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+MeowGurl!;Bot+Machanician+%26+Scraper+Queen;Crafting+magic+in+TypeScript+and+Bun.js;Living+on+Coffee%2C+Code+%26+Cat+Energy.😺" alt="Typing SVG">
+<!-- 💬 Typing Animation (Fixed Version) -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF66CC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+MeowGurl!;Bot+Mechanician+%26+Scraper+Queen;Crafting+magic+in+TypeScript+%26+Bun.js;Living+on+Coffee%2C+Code+%26+Cat+Energy+😺" alt="Typing SVG" />
+</p>
+
+<!-- 🩷 Fallback Banner (in case Typing SVG fails) -->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ff66cc&height=100&section=header&text=Hey%20I'm%20MeowGurl!%20😺&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="MeowGurl Banner" />
+</p>
 
 <p>
   Just a curious developer chasing creativity through code.<br>
@@ -54,7 +61,7 @@
 | **Frameworks (Scraper / API)** | 🧩 Elysia • 🚀 Express |
 | **Web Development** | 🧠 HTML5 • 💫 Next.js • 🎨 Tailwind CSS |
 | **Database / APIs** | 🪶 MongoDB • Axios • REST • JSON |
-| **Coding IDE** | 🧰 Visual Studio Code (with pink theme ✨) |
+| **Coding IDE** | 🧰 Visual Studio Code *(pink theme ✨)* |
 
 </div>
 
