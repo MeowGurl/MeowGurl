@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🐱 Your Main Circular Logo -->
+<!-- 🐱 Main Circular Logo -->
 <img src="logo/logo.jpg" alt="MeowGurl Logo" width="160" style="border-radius: 50%; box-shadow: 0 0 20px #ff69b4;">
 
 <br>
@@ -11,7 +11,7 @@
 <br>
 
 <!-- 💬 Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+MeowGurl!;Prowling+through+the+digital+galaxy...;Chasing+code+comets+and+butterflies...;Crafting+magic+in+TypeScript+%26+Bun." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF66CC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+MeowGurl!;Bot+Machanician+%26+Scraper+Queen;Crafting+magic+in+TypeScript+and+Bun.js;Living+on+Coffee%2C+Code+%26+Cat+Energy.😺" alt="Typing SVG">
 
 <p>
   Just a curious developer chasing creativity through code.<br>
@@ -30,15 +30,50 @@
 
 <br>
 
-<!-- 💻 Animated Coding Section -->
-<img src="https://github.com/MeowGurl/assets/blob/main/code-typing-loop.gif?raw=true" alt="Coding Animation" width="90%">
+---
 
-<br>
+### 🧠 About Me
+🌸 **Developer Title:** Bot Mechanician, Scraper Engineer, & Web Wizard  
+⚙️ **Coding Personality:** Hyper-coding night owl fueled by bass-heavy beats  
+💻 **Passion:** Turning logic into art — automating, scraping, and creating smooth UIs  
+🎮 **Hobbies:** Building modular bots, testing sound systems, and gaming  
+🎧 **Music Vibe:** High-bass EDM, Afro mix, Trap mix 🎶  
+🎵 **Current Test Track:** *Meow 😺 High Bass Gaming Mix*  
+🎧 **Headphones:** JBL Quantum 100  
+💻 **Favorite Brands:** Asus ROG ❤️ Samsung  
+
+---
+
+### 💡 Favorite Tech Stack
+<div align="center">
+
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| **Languages** | 🟨 JavaScript • 💙 TypeScript |
+| **Runtimes** | ⚡ Bun.js • 🌐 Node.js |
+| **Frameworks (Scraper / API)** | 🧩 Elysia • 🚀 Express |
+| **Web Development** | 🧠 HTML5 • 💫 Next.js • 🎨 Tailwind CSS |
+| **Database / APIs** | 🪶 MongoDB • Axios • REST • JSON |
+| **Coding IDE** | 🧰 Visual Studio Code (with pink theme ✨) |
+
+</div>
+
+---
+
+### 💻 My Current Workspace
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Windows%2011-00adef?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Device-ASUS%20ROG-ff0033?style=for-the-badge&logo=asus&logoColor=white">
+  <img src="https://img.shields.io/badge/Headphones-JBL%20Quantum%20100-f06595?style=for-the-badge&logo=jbl&logoColor=white">
+</p>
+
+---
 
 ### 🐾 My GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowGurl&theme=react-dark&hide_border=true&border_radius=12&line=FF66CC&point=FAD0C4" width="100%">
 
-<br>
+---
 
 <details align="center">
   <summary><code>[ Click to see my GitHub Stats ✨ ]</code></summary>
@@ -49,15 +84,16 @@
   </p>
 </details>
 
-<br>
+---
 
-<h3><i>~ MeowCoding 😸</i></h3>
-
+### 🐈 MeowCoding Mode: ON
 <a href="https://github.com/MeowGurl">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180px" alt="Coding Cat GIF">
 </a>
 
-<br><br>
+<p><i>"Code. Play. Break. Fix. Repeat. 😸"</i></p>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Animated Divider" width="100%">
 
