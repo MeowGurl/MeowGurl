@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://i.imgur.com/Tfo0nZE.gif" alt="animated-color-bar" width="100%">
+<img src="https://raw.githubusercontent.com/matheuss-io/matheuss-io/main/assets/images/rainbow-line.gif" alt="animated-color-bar" width="100%">
 
 <br>
 
@@ -40,12 +40,12 @@
 
 <h3><i>~ MeowCoding</i></h3>
 <a href="https://github.com/MeowGurl">
-  <img src="https://media.giphy.com/media/o0vwzuFywH6Gg/giphy.gif" width="150px" alt="Coding Cat GIF">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXRwn/giphy.gif" width="150px" alt="Pixel Art Coding Cat GIF">
 </a>
 
 <br>
 <br>
 
-<img src="https://i.imgur.com/Tfo0nZE.gif" alt="animated-color-bar" width="100%">
+<img src="https://raw.githubusercontent.com/matheuss-io/matheuss-io/main/assets/images/rainbow-line.gif" alt="animated-color-bar" width="100%">
 
 </div>
